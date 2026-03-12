@@ -7,4 +7,6 @@ The hardware file states all the pin USED, please also refer to teensy LC docume
 Its not very well commented out, feel free to get in touch for more info.
 
 IMPORTANT NOTE: To allow delta to be powered while working on Teensy LC, you will need to cut the Teensy LC's VUSB-VIN pads apart (5V power is already coming from the board). Please refer to the picture.
+
+
 ![Alt text](VIN-VUSB-Cut-Trace-Graphic.png)
